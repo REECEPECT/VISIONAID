@@ -1,2 +1,2 @@
-# VIOSIONAID
+# VISIONAID
 This repository encompasses the implementation of an automated system for detecting diabetic retinopathy from retinal images. Driven by Convolutional Neural Networks (CNNs), the system classifies images into different stages of diabetic retinopathy, facilitating early diagnosis and intervention. The project features a user-friendly web app for seamless interaction. Explore the codebase for the CNN model, dataset processing, and the integrated system architecture. The CNN model was trained and evaluated independently on two datasets, achieving an 80% accuracy with the EyePACS dataset and an impressive 95% accuracy with the APTOS dataset. (Node modules must be installed prior running the web application)
